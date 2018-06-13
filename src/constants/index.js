@@ -1,0 +1,9 @@
+export const ADD_NEW_CATEGORY = 'ADD_NEW_CATEGORY';
+export const EDIT_CATEGORY = 'EDIT_CATEGORY';
+export const DELETE_CATEGORY = 'DELETE_CATEGORY';
+export const ADD_NEW_TASK = 'ADD_NEW_TASK';
+export const EDIT_TASK = 'EDIT_TASK';
+export const SHOW_DONE_TASKS = 'SHOW_DONE_TASKS';
+export const FILTER_TASKS = 'FILTER_TASKS';
+export const GET_MODAL_CONFIG = 'GET_MODAL_CONFIG';
+export const OPEN_MODAL = 'OPEN_MODAL';

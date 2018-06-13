@@ -1,6 +1,6 @@
 The project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-# react-basics
+# react-redux-todo-list
 
 ## To-Do List
 
